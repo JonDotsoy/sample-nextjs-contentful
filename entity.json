@@ -1,0 +1,494 @@
+{
+    "sys": {
+        "space": {
+            "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "6ryxe22eim9l"
+            }
+        },
+        "id": "1ameHeSPbyQyAgJRDdu0xW",
+        "type": "Entry",
+        "createdAt": "2019-04-10T18:54:13.908Z",
+        "updatedAt": "2019-04-10T18:54:13.908Z",
+        "environment": {
+            "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+            }
+        },
+        "revision": 1,
+        "contentType": {
+            "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "pages"
+            }
+        },
+        "locale": "es-CL"
+    },
+    "fields": {
+        "titulo": "Las Mejores Frutas",
+        "descripcion": "Las mejores frutas del mundo a un solo clic te espera!",
+        "palabrasClaves": [
+            "frutsa",
+            "subscripción",
+            "Email frutas"
+        ],
+        "frutasModelo": [
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "6ryxe22eim9l"
+                        }
+                    },
+                    "id": "1TDH6389nRR5hRlp2fdz3s",
+                    "type": "Entry",
+                    "createdAt": "2019-04-10T18:43:36.664Z",
+                    "updatedAt": "2019-04-10T18:43:36.664Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "contentType": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "ContentType",
+                            "id": "frutaModel"
+                        }
+                    },
+                    "locale": "es-CL"
+                },
+                "fields": {
+                    "titulo": "Fresa",
+                    "cover": {
+                        "sys": {
+                            "space": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "6ryxe22eim9l"
+                                }
+                            },
+                            "id": "45mRhZKnljQ9t3QmNgMozF",
+                            "type": "Asset",
+                            "createdAt": "2019-04-11T03:47:33.093Z",
+                            "updatedAt": "2019-04-11T03:47:33.093Z",
+                            "environment": {
+                                "sys": {
+                                    "id": "master",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                }
+                            },
+                            "revision": 1,
+                            "locale": "es-CL"
+                        },
+                        "fields": {
+                            "title": "Fresa",
+                            "description": "Fresa icono",
+                            "file": {
+                                "url": "//images.ctfassets.net/6ryxe22eim9l/45mRhZKnljQ9t3QmNgMozF/379a10c81e68bb41ab908ada997a1df2/135717.svg",
+                                "details": {
+                                    "size": 3381,
+                                    "image": {
+                                        "width": 57,
+                                        "height": 57
+                                    }
+                                },
+                                "fileName": "135717.svg",
+                                "contentType": "image/svg+xml"
+                            }
+                        }
+                    },
+                    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet fringilla eros. Cras vitae arcu vel erat finibus dignissim eu ut ligula. Etiam lobortis feugiat accumsan. Aenean ultrices posuere."
+                }
+            },
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "6ryxe22eim9l"
+                        }
+                    },
+                    "id": "4WBG9B0zUNlUUZ7P0SA0mZ",
+                    "type": "Entry",
+                    "createdAt": "2019-04-10T18:44:43.473Z",
+                    "updatedAt": "2019-04-10T18:44:43.473Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "contentType": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "ContentType",
+                            "id": "frutaModel"
+                        }
+                    },
+                    "locale": "es-CL"
+                },
+                "fields": {
+                    "titulo": "Piña",
+                    "cover": {
+                        "sys": {
+                            "space": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "6ryxe22eim9l"
+                                }
+                            },
+                            "id": "25qUAwPfVCHYMcXOq7UGJ8",
+                            "type": "Asset",
+                            "createdAt": "2019-04-11T03:47:34.640Z",
+                            "updatedAt": "2019-04-11T03:47:34.640Z",
+                            "environment": {
+                                "sys": {
+                                    "id": "master",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                }
+                            },
+                            "revision": 1,
+                            "locale": "es-CL"
+                        },
+                        "fields": {
+                            "title": "Piña",
+                            "description": "Piña icono",
+                            "file": {
+                                "url": "//images.ctfassets.net/6ryxe22eim9l/25qUAwPfVCHYMcXOq7UGJ8/24625f1fa504d9cf8ee0fd843708ca8a/135598.svg",
+                                "details": {
+                                    "size": 4458,
+                                    "image": {
+                                        "width": 57,
+                                        "height": 57
+                                    }
+                                },
+                                "fileName": "135598.svg",
+                                "contentType": "image/svg+xml"
+                            }
+                        }
+                    },
+                    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eros tortor, scelerisque sit amet augue in, venenatis posuere orci. Mauris quam elit, cursus vitae viverra ut, hendrerit in mauris. Sed."
+                }
+            },
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "6ryxe22eim9l"
+                        }
+                    },
+                    "id": "5l5wvonOCm17VPeczMxaUO",
+                    "type": "Entry",
+                    "createdAt": "2019-04-10T18:40:44.945Z",
+                    "updatedAt": "2019-04-10T18:40:44.945Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "contentType": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "ContentType",
+                            "id": "frutaModel"
+                        }
+                    },
+                    "locale": "es-CL"
+                },
+                "fields": {
+                    "titulo": "Manzana",
+                    "cover": {
+                        "sys": {
+                            "space": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "6ryxe22eim9l"
+                                }
+                            },
+                            "id": "3vZtcBMJ9MqDovRJHQ6apu",
+                            "type": "Asset",
+                            "createdAt": "2019-04-11T03:47:33.476Z",
+                            "updatedAt": "2019-04-11T03:47:33.476Z",
+                            "environment": {
+                                "sys": {
+                                    "id": "master",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                }
+                            },
+                            "revision": 1,
+                            "locale": "es-CL"
+                        },
+                        "fields": {
+                            "title": "Manzana ICON",
+                            "description": "Manzana Icono",
+                            "file": {
+                                "url": "//images.ctfassets.net/6ryxe22eim9l/3vZtcBMJ9MqDovRJHQ6apu/edbd5d37ae5af0cd2d4b4cb36e92f8d2/415733.svg",
+                                "details": {
+                                    "size": 3207,
+                                    "image": {
+                                        "width": 512,
+                                        "height": 512
+                                    }
+                                },
+                                "fileName": "415733.svg",
+                                "contentType": "image/svg+xml"
+                            }
+                        }
+                    },
+                    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec justo nisl, facilisis id sem quis, pretium congue tortor. Vestibulum scelerisque nunc vitae auctor mattis. Integer porta turpis quis lectus egestas."
+                }
+            },
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "6ryxe22eim9l"
+                        }
+                    },
+                    "id": "1IezGwfNZzXwK7qQ1xfIO9",
+                    "type": "Entry",
+                    "createdAt": "2019-04-10T18:42:46.221Z",
+                    "updatedAt": "2019-04-10T18:42:46.221Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "contentType": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "ContentType",
+                            "id": "frutaModel"
+                        }
+                    },
+                    "locale": "es-CL"
+                },
+                "fields": {
+                    "titulo": "Naranja",
+                    "cover": {
+                        "sys": {
+                            "space": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "6ryxe22eim9l"
+                                }
+                            },
+                            "id": "5RaAqNH7ph0ZfdWZMt3Rw3",
+                            "type": "Asset",
+                            "createdAt": "2019-04-11T03:47:33.238Z",
+                            "updatedAt": "2019-04-11T03:47:33.238Z",
+                            "environment": {
+                                "sys": {
+                                    "id": "master",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                }
+                            },
+                            "revision": 1,
+                            "locale": "es-CL"
+                        },
+                        "fields": {
+                            "title": "Naranja",
+                            "description": "Naranja icono",
+                            "file": {
+                                "url": "//images.ctfassets.net/6ryxe22eim9l/5RaAqNH7ph0ZfdWZMt3Rw3/8a6445b0078f4dd4d1ac328aa89a145a/135620.svg",
+                                "details": {
+                                    "size": 2592,
+                                    "image": {
+                                        "width": 51,
+                                        "height": 51
+                                    }
+                                },
+                                "fileName": "135620.svg",
+                                "contentType": "image/svg+xml"
+                            }
+                        }
+                    },
+                    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta dolor in eros sagittis dictum. Vivamus varius lorem vel finibus pretium. Integer hendrerit ante vitae erat eleifend, ac sollicitudin massa."
+                }
+            }
+        ],
+        "frutasPromocionales": [
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "6ryxe22eim9l"
+                        }
+                    },
+                    "id": "425GEQxnnKgyLcnJNaflKR",
+                    "type": "Entry",
+                    "createdAt": "2019-04-10T18:51:36.130Z",
+                    "updatedAt": "2019-04-10T18:51:36.130Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "contentType": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "ContentType",
+                            "id": "fruta"
+                        }
+                    },
+                    "locale": "es-CL"
+                },
+                "fields": {
+                    "nombre": "Manzana Verde Temporada",
+                    "foto": {
+                        "sys": {
+                            "space": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "6ryxe22eim9l"
+                                }
+                            },
+                            "id": "7BG7hU0zzrwlVEfRFH1Pwp",
+                            "type": "Asset",
+                            "createdAt": "2019-04-11T03:47:33.083Z",
+                            "updatedAt": "2019-04-11T03:47:33.083Z",
+                            "environment": {
+                                "sys": {
+                                    "id": "master",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                }
+                            },
+                            "revision": 1,
+                            "locale": "es-CL"
+                        },
+                        "fields": {
+                            "title": "manzana verde temporada",
+                            "file": {
+                                "url": "//images.ctfassets.net/6ryxe22eim9l/7BG7hU0zzrwlVEfRFH1Pwp/66c113233e41d61e7083fb7d24fa9734/image.png",
+                                "details": {
+                                    "size": 64198,
+                                    "image": {
+                                        "width": 250,
+                                        "height": 250
+                                    }
+                                },
+                                "fileName": "image.png",
+                                "contentType": "image/png"
+                            }
+                        }
+                    },
+                    "descipcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales erat in ex iaculis, et venenatis quam gravida. Donec nunc justo, facilisis eget varius ac, ullamcorper et nisi. Pellentesque orci.",
+                    "valorPorKilo": 400
+                }
+            },
+            {
+                "sys": {
+                    "space": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "Space",
+                            "id": "6ryxe22eim9l"
+                        }
+                    },
+                    "id": "1ytzgiTZIpZzgytq3Rc7gC",
+                    "type": "Entry",
+                    "createdAt": "2019-04-10T18:53:20.940Z",
+                    "updatedAt": "2019-04-10T18:53:20.940Z",
+                    "environment": {
+                        "sys": {
+                            "id": "master",
+                            "type": "Link",
+                            "linkType": "Environment"
+                        }
+                    },
+                    "revision": 1,
+                    "contentType": {
+                        "sys": {
+                            "type": "Link",
+                            "linkType": "ContentType",
+                            "id": "fruta"
+                        }
+                    },
+                    "locale": "es-CL"
+                },
+                "fields": {
+                    "nombre": "Manzana Roja Rubia",
+                    "foto": {
+                        "sys": {
+                            "space": {
+                                "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "6ryxe22eim9l"
+                                }
+                            },
+                            "id": "6VarD6tzaRSatV04LvcoWi",
+                            "type": "Asset",
+                            "createdAt": "2019-04-11T03:47:33.091Z",
+                            "updatedAt": "2019-04-11T03:47:33.091Z",
+                            "environment": {
+                                "sys": {
+                                    "id": "master",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                }
+                            },
+                            "revision": 1,
+                            "locale": "es-CL"
+                        },
+                        "fields": {
+                            "title": "manzana roja",
+                            "file": {
+                                "url": "//images.ctfassets.net/6ryxe22eim9l/6VarD6tzaRSatV04LvcoWi/c3e8612436cc7dae2b41d4b2278d479a/image.png",
+                                "details": {
+                                    "size": 78851,
+                                    "image": {
+                                        "width": 250,
+                                        "height": 250
+                                    }
+                                },
+                                "fileName": "image.png",
+                                "contentType": "image/png"
+                            }
+                        }
+                    },
+                    "descipcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut nisi placerat, sodales tortor eget, commodo orci. Nullam euismod, elit at iaculis malesuada, diam turpis fringilla felis, vitae ultrices purus.",
+                    "valorPorKilo": 300
+                }
+            }
+        ]
+    }
+}
