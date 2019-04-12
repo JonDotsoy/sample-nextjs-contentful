@@ -28,6 +28,8 @@ export type PaginaEntry = Entry<Pagina>;
 export const getFrutPage = () => client.getEntry<Pagina>('1ameHeSPbyQyAgJRDdu0xW');
 export const frutPagePromise = getFrutPage();
 
+frutPagePromise.then(console.log);
+
 export const usePageBestFruts = () => {
   const [loading, setLoading] = useState(true);
   const [result, setResult] = useState();

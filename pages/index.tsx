@@ -1,7 +1,5 @@
 import { frutPagePromise, PaginaEntry } from "../utils/usePageBestFruts";
-import { Fragment as div } from "react";
 import Head from 'next/head';
-
 import './index.scss';
 import { PresentationFrutModel } from "../components/presentation-frut-model";
 import { MenuFrutModel } from "../components/menu-frut-model";
@@ -17,6 +15,7 @@ export const IndexPage = ({ frutPage }: { frutPage: PaginaEntry }) => {
       <meta name="keywords" content={frutPage.fields.palabrasClaves.join(', ')} />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta name="description" content={frutPage.fields.descripcion} />
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
     </Head>
 
     <header className="page-header">
